@@ -1,0 +1,2 @@
+# PythonSmartCode
+For Python lesson
